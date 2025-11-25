@@ -1,5 +1,6 @@
                                                    Fitness tracker
 PROJECT DESCRIPTION
+
 The Fitness Activity Tracker is a console-based C program designed to help users record and monitor their daily physical activities such as walking and running.
 The system allows the user to store multiple activity records, where each record contains:
 	•	Date of activity
